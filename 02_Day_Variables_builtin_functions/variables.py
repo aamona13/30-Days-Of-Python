@@ -13,7 +13,7 @@ is_true = True
 is_light_on = False
 hobbies = ['gym', 'running', 'sleeping']
 
-
+type(first_name)
 # Printing the values stored in the variables
 
 print('First name:', first_name)
